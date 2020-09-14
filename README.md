@@ -1,5 +1,5 @@
 # Research-Competition
-This is an SNS text mining of Yonsei Facebook page, which is an annonymous website where students can freely discuss topics.
+This is an SNS text mining of Yonsei Facebook page, which is a website where students can freely discuss topics annonymously.
 I have crawled 300 top most liked posts on Yonsei Facebook page (대나무숲 http://yonsei.fbpage.kr/#/search).
 
 
